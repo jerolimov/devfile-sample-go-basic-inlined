@@ -1,1 +1,1 @@
-# devfile-sample-go-basic
+# devfile-sample-go-basic-inlined
